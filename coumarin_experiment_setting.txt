@@ -1,0 +1,19 @@
+Measurment was performed on XX.XX.2015
+
+Settings:
+
+Laser: 
+
+Ti-Sa pulsed laser (MaiTai XF1, Spectra-Physics, Santa Clara CA, USA)
+80 fs pulse width
+80 MHz repetition rate
+tuneable from 710 to 920 nm
+
+FLIM Microscope:
+
+custom made 5D-MP-microscope by Jenlab GmbH
+excitation wavelength: 920 nm
+acquisition time: 180 s
+emission filter: XXX - XXX nm
+
+Recorded as sdt-files, exported with SPCImage 5.4.0 (Becker&Hickl). Applied binning factor: 6(?)
