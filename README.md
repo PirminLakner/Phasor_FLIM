@@ -29,7 +29,19 @@ Meaning of parameters need to be set before:
 
 ###Example from paper
 
-Coumarin
+The results for the coumarin measurement shown in the paper mentioned above are calculated with the following parameters:
+
+% -- set constants
+thresh = 0.3;               % threshold [0,1]
+harmonic = 4;               % harmonic number (1,2,3,4,...)
+singleorbatch = 'single';   % 'single' or 'batch' processing
+lifetimefitting = 'false';   % 'true' for linear fitting of phasor points for lifetime
+% 'false' for calculation of lifetime with mean of phasor points
+
+shift_bins = 4;             % number of bins shifted to right from max for minimizing effect of IRF
+
+freq0 = 8E+7;                   % laser frequency, here 80 MHz
+delta_t = 1.5625E-10;           % width of one time channel
 
 ## Licenses
 
