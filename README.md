@@ -41,6 +41,7 @@ lifetimefitting = 'false';   % 'true' for linear fitting of phasor points for li
 shift_bins = 4;             % number of bins shifted to right from max for minimizing effect of IRF
 
 freq0 = 8E+7;                   % laser frequency, here 80 MHz
+
 delta_t = 1.5625E-10;           % width of one time channel
 
 ## Licenses
