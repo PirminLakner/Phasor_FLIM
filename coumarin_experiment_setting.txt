@@ -17,4 +17,4 @@ acquisition time: 180 s
 emission filter: 425 - 509 nm
 spatial resolution: 512 x 512 pixel
 
-Recorded as sdt-files, exported with SPCImage 5.4.0 (Becker&Hickl). 
+Recorded as sdt-files, exported with SPCImage 5.4.0 (Becker&Hickl). Binning level 6 was applied to minimize noise.
