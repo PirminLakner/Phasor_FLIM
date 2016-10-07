@@ -11,6 +11,8 @@ This project will be published in Scientific Reports. Additional information is 
 
 ### Short Manual
 
+The MATLAB script is the 'phasor.m' file. It must be executed with MATLAB. Copy phasor.m file to the MATLAB folder in e.g. 'Documents', open MATLAB, open phasor.m with MATLAB and press 'run' (F5). 
+
 Meaning of parameters need to be set before:
 
 'thresh' is threshold of pixels considered in calculations based on their intensity compared to the brightest pixel. Inensity of a pixel is the sum of photons over all time bins. Values reach from 0 to 1 standing for 0% to 100%. 0.0 considers all pixels, 1.0 considers only brightest pixel. So 0.3 considers all pixel with 'brightness' above 30% of the brightest pixel.
