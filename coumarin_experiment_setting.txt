@@ -1,4 +1,4 @@
-Measurment was performed on XX.XX.2015
+Measurment was performed on 03.09.2015
 
 Settings:
 
@@ -14,6 +14,7 @@ FLIM Microscope:
 custom made 5D-MP-microscope by Jenlab GmbH
 excitation wavelength: 920 nm
 acquisition time: 180 s
-emission filter: XXX - XXX nm
+emission filter: 425 - 509 nm
+spatial resolution: 512 x 512 pixel
 
-Recorded as sdt-files, exported with SPCImage 5.4.0 (Becker&Hickl). Applied binning factor: 6(?)
+Recorded as sdt-files, exported with SPCImage 5.4.0 (Becker&Hickl). 
